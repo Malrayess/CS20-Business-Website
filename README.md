@@ -9,7 +9,7 @@
   - [ ] Create slideshow with arrows
     - [ ] Find images
     - [ ] Review slideshow js.
-  - [ ]Create buttons with slideshow leading to featured product
+  - [ ] Create buttons with slideshow leading to featured product
 - [ ] Nike page
   - [ ] Same header as before^
     - [ ] Sub-header under
